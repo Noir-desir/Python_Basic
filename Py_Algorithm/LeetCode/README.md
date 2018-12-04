@@ -15,5 +15,7 @@
 |0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)| [python](./src/0026_删除排序数组中的重复项) | Easy | 数组、双指针
 |0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/)| [python](./src/0027_移除元素) | Easy | 数组、双指针
 |0028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)| [python](./src/0028_实现strStr()) | Easy | 双指针、字符串
+|0038 | [报数](https://leetcode-cn.com/problems/count-and-say/description/)| [python](./src/0038_报数) | Easy | 字符串
 |0456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/)| [python](./src/0456_132模式) | Medium | 栈
+
 
