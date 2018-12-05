@@ -17,5 +17,4 @@
 |0028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)| [python](./src/0028_实现strStr()) | Easy | 双指针、字符串
 |0038 | [报数](https://leetcode-cn.com/problems/count-and-say/description/)| [python](./src/0038_报数) | Easy | 字符串
 |0456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/)| [python](./src/0456_132模式) | Medium | 栈
-
-
+|0503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/)| [python](./src/0503_下一个更大元素2) | Medium | 栈
