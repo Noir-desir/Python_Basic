@@ -1,8 +1,8 @@
 ﻿Leetcode
 ===
 
-| # | Title |  python  | Difficulty | Remarks|
-|---| ----- | -------- | ---------- | ---------- |
+| # | Title |  python  | Difficulty | Remarks|Notes|
+|---|---|---|---|---|---|
 |0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [python](./src/0001_两数之和)| Easy| 数组、哈希  
 |0004 | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [python](./src/0004_两个排序数组的中位数) | Hard |二分查找、数组  
 |0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)| [python](./src/0005_最长回文子串) | Medium | 字符串、动态规划
@@ -16,5 +16,6 @@
 |0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/)| [python](./src/0027_移除元素) | Easy | 数组、双指针
 |0028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)| [python](./src/0028_实现strStr()) | Easy | 双指针、字符串
 |0038 | [报数](https://leetcode-cn.com/problems/count-and-say/description/)| [python](./src/0038_报数) | Easy | 字符串
+|0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)| [python](./src/0048_旋转图像) | Medium | 数组|Zip()
 |0456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/)| [python](./src/0456_132模式) | Medium | 栈
 |0503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/)| [python](./src/0503_下一个更大元素2) | Medium | 栈
