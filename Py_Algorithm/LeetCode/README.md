@@ -15,7 +15,9 @@
 |0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)| [python](./src/0026_删除排序数组中的重复项) | Easy | 数组、双指针
 |0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/)| [python](./src/0027_移除元素) | Easy | 数组、双指针
 |0028 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)| [python](./src/0028_实现strStr()) | Easy | 双指针、字符串
+|0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)| [python](./src/0035_搜索插入位置) | Easy | 数组、二分查找
 |0038 | [报数](https://leetcode-cn.com/problems/count-and-say/description/)| [python](./src/0038_报数) | Easy | 字符串
 |0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)| [python](./src/0048_旋转图像) | Medium | 数组|Zip()
 |0456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/)| [python](./src/0456_132模式) | Medium | 栈
 |0503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/)| [python](./src/0503_下一个更大元素2) | Medium | 栈
+
