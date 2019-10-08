@@ -19,5 +19,6 @@
 |0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)| [python](./src/0035_搜索插入位置) | Easy | 数组、二分查找
 |0038 | [报数](https://leetcode-cn.com/problems/count-and-say/description/)| [python](./src/0038_报数) | Easy | 字符串
 |0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)| [python](./src/0048_旋转图像) | Medium | 数组|Zip()
+|0055 | [跳转游戏](https://leetcode-cn.com/problems/jump-game/)| [python](./src/0055_跳转游戏) | Medium | 数组、贪心算法
 |0456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/)| [python](./src/0456_132模式) | Medium | 栈
 |0503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/)| [python](./src/0503_下一个更大元素2) | Medium | 栈
